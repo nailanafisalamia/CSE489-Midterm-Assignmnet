@@ -1,5 +1,5 @@
 ================================================================================
-  SMART LANDMARKS 2
+  SMART LANDMARKS
   CSE 489 - Midterm Submission
   Student ID: 24241291
 ================================================================================
@@ -7,7 +7,7 @@
 
 PROJECT OVERVIEW
 ----------------
-Smart Landmarks 2 is an Android app written in Flutter. It gives users a way
+Smart Landmarks is an Android app written in Flutter. It gives users a way
 to discover, visit, and contribute to a shared database of geo-tagged points
 of interest. Everything is built around a live API with offline fallback, so
 the app stays useful even when the device has no connection.
